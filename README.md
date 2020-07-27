@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+微信公众号
+![扫码关注微信公众号]
+(../master/snail_linux.jpg)
