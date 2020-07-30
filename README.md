@@ -16,5 +16,3 @@
 - 🌱 读书爱好者--中国史欧洲史宗教史 微信公众号：蜗牛linux
 - 💬 技术博客地址：https://lexsaints.blog.csdn.net/
 - 💬 右边是 我的个人微信公众号 欢迎关注。。。
-
-- ⚡ Fun fact: Data Analysis📊
