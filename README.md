@@ -15,5 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 微信公众号
-![扫码关注微信公众号]
-(https://github.com/lexsaints/lexsaints/blob/master/snail_linux.jpg)
+![扫码关注微信公众号](../master/snail_linux.jpg)
