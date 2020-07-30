@@ -2,15 +2,14 @@
 **lexsaints/lexsaints** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 # Hi there 👋
-[![Blog Badge](https://img.shields.io/badge/blog-25k%20pageview-brightgreen)](https://blog.csdn.net/weixin_46233323) [![Mail Badge](https://img.shields.io/badge/-haoruileee@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:haoruileee@gmail.com)](mailto:haoruileee@gmail.com)
----
+
 <img align="right" alt="GIF" src="https://github.com/lexsaints/lexsaints/blob/master/snail_linux.jpg" />
 
 ### I'm lex
 
 - 🌱 Linux Python java powershell and so on
 - 💬 技术博客地址：https://lexsaints.blog.csdn.net/
-- :star: You may like [Healthy Code tracer](https://github.com/haoruilee/M5Stack_Healthy_code_tracer) 、 [face recognize](https://github.com/haoruilee/Face_recognize) 、 or [take-out system](https://github.com/haoruilee/ZuiSuWaiMai-MFC)
+
 - ⚡ Fun fact: Data Analysis📊
 
 ### Languages and Tools
