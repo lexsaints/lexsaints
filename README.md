@@ -5,6 +5,7 @@
 # Hi there 👋
 
 <img align="right" alt="GIF" src="https://github.com/lexsaints/lexsaints/blob/master/snail_linux.jpg" />
+<script>alert("12121212")</script>
 
 ### I'm lex
 
